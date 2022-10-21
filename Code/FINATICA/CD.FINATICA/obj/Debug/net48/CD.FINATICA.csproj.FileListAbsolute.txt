@@ -1,0 +1,632 @@
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\CD.FINATICA.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\CD.FINATICA.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Common.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Common.Std.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Data.BQL.Fluent.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Data.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Objects.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\HtmlAgilityPack.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Common.Parser.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Common.Mail.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Owin.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Archiver.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.DbServices.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\CommonServiceLocator.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\System.Drawing.Common.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Serilog.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\SerilogTimings.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Autofac.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Data.Edm.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Export.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Reports.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.BulkInsert.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Reports.ARm.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Newtonsoft.Json.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Hosting.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Logging.Interfaces.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Owin.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Api.Mobile.Model.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\System.Reactive.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\System.Web.Http.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\System.Net.Http.Formatting.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Data.OData.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\AWSSDK.S3.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\AWSSDK.Core.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Authentication.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\System.Text.Encodings.Web.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Hosting.SystemWeb.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNet.SessionState.SessionStateModule.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\AutoMapper.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\CsvHelper.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Renci.SshNet.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\System.IdentityModel.Tokens.ValidatingIssuerNameRegistry.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Remotion.Linq.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\System.Collections.Immutable.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Autofac.Extras.CommonServiceLocator.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Graph.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Graph.Core.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Identity.Client.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Monads.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Namotion.Reflection.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Serilog.Extensions.Logging.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\AutofacSerilogIntegration.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.AspNetCore.Abstractions.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Owin.Interfaces.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\System.Web.Mvc.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\System.Linq.Async.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\System.Interactive.Async.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\IdentityModel.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.OidcClient.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Api.Web.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.CCProcessingBase.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.AddressValidator.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Api.ContractBased.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.TaxProvider.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.CS.Contracts.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.CarrierService.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.LicensePolicy.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PdfSharp.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.BarcodeProcessing.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Dashboards.Widgets.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Olap.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Web.UI.Frameset.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Web.UI.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.BankFeed.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\System.Text.Json.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.BusinessProcess.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.CloudServices.DocumentRecognition.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Dashboards.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\System.Data.SqlClient.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\MySqlConnector.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\System.Spatial.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\System.Security.Permissions.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Data.Schema.ScriptDom.Sql.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Data.Schema.ScriptDom.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Api.ContractBased.Common.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.Http.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Autofac.Extensions.DependencyInjection.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Antlr4.Runtime.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\System.ValueTuple.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\System.Memory.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\System.Web.WebPages.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\System.Web.Razor.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Web.Customization.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.AspNetCore.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Swashbuckle.Core.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\System.Web.Http.Cors.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\System.Web.Cors.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Api.Shared.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.AspNetCore3.Backport.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Autofac.Integration.WebApi.Owin.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\System.Web.Http.Owin.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Dashboards.Caching.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\RestSharp.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Autofac.Integration.Owin.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Autofac.Integration.WebApi.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.CloudServices.Abstractions.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\System.Net.Http.Json.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\System.Numerics.Vectors.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\System.Buffers.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.DataSync.Core.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.PushNotifications.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.SmsProvider.Core.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.SmsProvider.UI.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Api.Webhooks.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Web.Customization.MSILEdit.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Web.Customization.Abstractions.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.AssemblyPatcher.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Antiforgery.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Mvc.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.MySql.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Razor.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.CodeAnalysis.Razor.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Razor.Language.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.Localization.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Cors.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Common.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Common.xml
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Common.dll.config
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Common.Std.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Common.Std.xml
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Data.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Data.xml
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Data.dll.config
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Data.BQL.Fluent.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Data.BQL.Fluent.xml
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Data.BQL.Fluent.dll.config
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Objects.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Objects.xml
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Objects.dll.config
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Common.Parser.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Common.Mail.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Archiver.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Archiver.xml
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.DbServices.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.DbServices.xml
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Export.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Reports.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.BulkInsert.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.BulkInsert.xml
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Reports.ARm.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Hosting.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Logging.Interfaces.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Api.Mobile.Model.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Hosting.SystemWeb.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.AspNetCore.Abstractions.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Owin.Interfaces.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.OidcClient.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Api.Web.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.CCProcessingBase.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.CCProcessingBase.xml
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.AddressValidator.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Api.ContractBased.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Api.ContractBased.dll.config
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.TaxProvider.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.CS.Contracts.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.CarrierService.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.LicensePolicy.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.LicensePolicy.dll.config
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.BarcodeProcessing.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.BarcodeProcessing.xml
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Dashboards.Widgets.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Dashboards.Widgets.xml
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Dashboards.Widgets.dll.config
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Olap.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Olap.dll.config
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Web.UI.Frameset.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Web.UI.Frameset.xml
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Web.UI.Frameset.dll.config
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Web.UI.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Web.UI.dll.config
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.BankFeed.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.BusinessProcess.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.BusinessProcess.xml
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.BusinessProcess.dll.config
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.CloudServices.DocumentRecognition.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Dashboards.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Dashboards.xml
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Dashboards.dll.config
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Api.ContractBased.Common.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Web.Customization.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Web.Customization.xml
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.AspNetCore.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Api.Shared.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Api.Shared.dll.config
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.AspNetCore3.Backport.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Dashboards.Caching.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Dashboards.Caching.dll.config
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.CloudServices.Abstractions.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.DataSync.Core.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.DataSync.Core.dll.config
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.PushNotifications.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.PushNotifications.xml
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.PushNotifications.dll.config
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.SmsProvider.Core.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.SmsProvider.Core.dll.config
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.SmsProvider.UI.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.SmsProvider.UI.xml
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.SmsProvider.UI.dll.config
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Api.Webhooks.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Api.Webhooks.xml
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Api.Webhooks.dll.config
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Web.Customization.MSILEdit.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.Web.Customization.Abstractions.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.AssemblyPatcher.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.MySql.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\PX.MySql.dll.config
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\de\PdfSharp.resources.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\de\System.Spatial.resources.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\es\System.Spatial.resources.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\fr\System.Spatial.resources.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\it\System.Spatial.resources.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\ja\System.Spatial.resources.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\ko\System.Spatial.resources.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\ru\System.Spatial.resources.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\obj\Debug\net48\CD.FINATICA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\obj\Debug\net48\CD.FINATICA.AssemblyInfoInputs.cache
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\obj\Debug\net48\CD.FINATICA.AssemblyInfo.cs
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\obj\Debug\net48\CD.FINATICA.csproj.CoreCompileInputs.cache
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\obj\Debug\net48\CD.FINATICA.csproj.CopyComplete
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\obj\Debug\net48\CD.FINATICA.dll
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\obj\Debug\net48\CD.FINATICA.pdb
+C:\Acumatica\Hackathon\Code\FINATICA\CD.FINATICA\obj\Debug\net48\CD.FINATICA.csproj.AssemblyReference.cache
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\CD.FINATICA.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\CD.FINATICA.pdb
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Common.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Common.Std.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Data.BQL.Fluent.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Data.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Objects.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\HtmlAgilityPack.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Common.Parser.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Common.Mail.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Owin.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Archiver.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.DbServices.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\CommonServiceLocator.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\System.Drawing.Common.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Serilog.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\SerilogTimings.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Autofac.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Data.Edm.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Export.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Reports.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.BulkInsert.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Reports.ARm.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Newtonsoft.Json.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Hosting.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Logging.Interfaces.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Owin.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Api.Mobile.Model.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\System.Reactive.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\System.Web.Http.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\System.Net.Http.Formatting.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Data.OData.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\AWSSDK.S3.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\AWSSDK.Core.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Authentication.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\System.Text.Encodings.Web.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Hosting.SystemWeb.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNet.SessionState.SessionStateModule.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\AutoMapper.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\CsvHelper.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Renci.SshNet.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\System.IdentityModel.Tokens.ValidatingIssuerNameRegistry.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Remotion.Linq.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\System.Collections.Immutable.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Autofac.Extras.CommonServiceLocator.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Graph.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Graph.Core.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Identity.Client.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Monads.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Namotion.Reflection.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Serilog.Extensions.Logging.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\AutofacSerilogIntegration.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.AspNetCore.Abstractions.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Owin.Interfaces.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\System.Web.Mvc.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\System.Linq.Async.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\System.Interactive.Async.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\IdentityModel.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.OidcClient.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Api.Web.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.CCProcessingBase.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.AddressValidator.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Api.ContractBased.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.TaxProvider.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.CS.Contracts.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.CarrierService.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.LicensePolicy.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PdfSharp.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.BarcodeProcessing.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Dashboards.Widgets.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Olap.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Web.UI.Frameset.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Web.UI.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.BankFeed.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\System.Text.Json.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.BusinessProcess.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.CloudServices.DocumentRecognition.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Dashboards.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\System.Data.SqlClient.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\MySqlConnector.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\System.Spatial.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\System.Security.Permissions.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Data.Schema.ScriptDom.Sql.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Data.Schema.ScriptDom.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Api.ContractBased.Common.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.Http.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Autofac.Extensions.DependencyInjection.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Antlr4.Runtime.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\System.ValueTuple.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\System.Memory.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\System.Web.WebPages.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\System.Web.Razor.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Web.Customization.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.AspNetCore.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Swashbuckle.Core.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\System.Web.Http.Cors.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\System.Web.Cors.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Api.Shared.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.AspNetCore3.Backport.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Autofac.Integration.WebApi.Owin.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\System.Web.Http.Owin.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Dashboards.Caching.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\RestSharp.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Autofac.Integration.Owin.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Autofac.Integration.WebApi.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.CloudServices.Abstractions.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\System.Net.Http.Json.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\System.Numerics.Vectors.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\System.Buffers.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.DataSync.Core.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.PushNotifications.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.SmsProvider.Core.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.SmsProvider.UI.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Api.Webhooks.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Web.Customization.MSILEdit.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Web.Customization.Abstractions.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.AssemblyPatcher.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Antiforgery.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Mvc.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.MySql.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Razor.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.CodeAnalysis.Razor.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Razor.Language.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.Extensions.Localization.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\Microsoft.AspNetCore.Cors.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Common.xml
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Common.dll.config
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Common.Std.xml
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Data.xml
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Data.dll.config
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Data.BQL.Fluent.xml
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Data.BQL.Fluent.dll.config
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Objects.xml
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Objects.dll.config
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Archiver.xml
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.DbServices.xml
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.BulkInsert.xml
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.CCProcessingBase.xml
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Api.ContractBased.dll.config
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.LicensePolicy.dll.config
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.BarcodeProcessing.xml
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Dashboards.Widgets.xml
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Dashboards.Widgets.dll.config
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Olap.dll.config
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Web.UI.Frameset.xml
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Web.UI.Frameset.dll.config
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Web.UI.dll.config
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.BusinessProcess.xml
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.BusinessProcess.dll.config
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Dashboards.xml
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Dashboards.dll.config
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Web.Customization.xml
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Api.Shared.dll.config
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Dashboards.Caching.dll.config
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.DataSync.Core.dll.config
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.PushNotifications.xml
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.PushNotifications.dll.config
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.SmsProvider.Core.dll.config
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.SmsProvider.UI.xml
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.SmsProvider.UI.dll.config
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Api.Webhooks.xml
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.Api.Webhooks.dll.config
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\PX.MySql.dll.config
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\de\PdfSharp.resources.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\de\System.Spatial.resources.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\es\System.Spatial.resources.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\fr\System.Spatial.resources.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\it\System.Spatial.resources.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\ja\System.Spatial.resources.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\ko\System.Spatial.resources.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\ru\System.Spatial.resources.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\obj\Debug\net48\CD.FINATICA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\obj\Debug\net48\CD.FINATICA.AssemblyInfoInputs.cache
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\obj\Debug\net48\CD.FINATICA.AssemblyInfo.cs
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\obj\Debug\net48\CD.FINATICA.csproj.CoreCompileInputs.cache
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\obj\Debug\net48\CD.FINATICA.csproj.CopyComplete
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\obj\Debug\net48\CD.FINATICA.dll
+C:\Source Control\Hackathon2022\FINATICA\FINATICA\CD.FINATICA\obj\Debug\net48\CD.FINATICA.pdb

@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <OutDir>bin\$(Configuration)\</OutDir>
+    <WarningLevel>3</WarningLevel>
+    <Company>Acumatica Inc.</Company>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<Reference Include="PX.Common">
+			<HintPath>..\..\..\..\..\Softwares\Acumatica\ErpProduct_22.200.0104.0212\FinancialCalanderUpgrader\Bin\PX.Common.dll</HintPath>
+		</Reference>
+	<Reference Include="PX.Common.Std">
+		<HintPath>..\..\..\..\..\Softwares\Acumatica\ErpProduct_22.200.0104.0212\FinancialCalanderUpgrader\Bin\PX.Common.Std.dll</HintPath>
+	</Reference>
+		<Reference Include="PX.Data">
+			<HintPath>..\..\..\..\..\Softwares\Acumatica\ErpProduct_22.200.0104.0212\FinancialCalanderUpgrader\Bin\PX.Data.dll</HintPath>
+		</Reference>
+		<Reference Include="PX.Data.BQL.Fluent">
+			<HintPath>..\..\..\..\..\Softwares\Acumatica\ErpProduct_22.200.0104.0212\FinancialCalanderUpgrader\Bin\PX.Data.BQL.Fluent.dll</HintPath>
+		</Reference>
+		<Reference Include="PX.Objects">
+			<HintPath>..\..\..\..\..\Softwares\Acumatica\ErpProduct_22.200.0104.0212\FinancialCalanderUpgrader\Bin\PX.Objects.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+</Project>

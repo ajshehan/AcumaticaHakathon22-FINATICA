@@ -1,0 +1,52 @@
+﻿<Page path="~/Pages/CD/CDGL1000.aspx" ControlId="5" pageSource="tVVRb9owEH5upf4Hy1NfgbbqplWARgO0SIAQsHZ7mtz4Cl4dh9lOoXvYb9/ZSUjWQsuGlifn7Pvu7vt85/rxJzJiMyB9pmYJLho0eEfJgBkL2m10hUTbr2phMdVurKM2WCZkJfJmSlqJjTuPoOyt0JAsGtTqBCi5YVJwZmEMPxIwtkHvmTRoD2KeIQftq/5JrVarMLNYVUJDSU/NQQtrGtRF+5YfoGQqrPP4rKxbcJ83JcfNo8M6VpEmOH1aALkR2iZMjpid75C6A0AIjH8RxMpiDaTXbtAQ1ycuU28aSRbCdSw5aLe5mLcnlIwTxbCmCehHBEKYg/pidTH60maWTeJEh+CROBal06MmPYoZGnHnipl6mm4Fd6limcf06JBkn6tlyCJPUqXbG7amvaBV6QoTMvkVmB6wxYAJZUsuIy0ipp9uBCzRi0lQnGksAYMaESv0KB12CR/U8ZS8Y+FDEEcRU9x4NtBe3bCB1mcFOvKrJeqaW5g83c5kdzuRTi1Xi4e5x58XRBaZ5Ew7ywCiO9DbGPiDbnINYja3/m+xwossZbx0t/lacMjva8rUFKKFxMvs/7IM++wpTuw4kanUZcPJi2Qnlmk7jpeZ7M2MzcKlWQBPQEJoY00c/cIGc+xPMPmFeQbsQgfGFl5nKQ9dAZLjVqI1Mu/Dj7C3Yt5rU5KHz33wv1xhtptLsKvQZ9uFvtou9JUW3EPMcLGDyJsVPPcKTh6EcufSNjevStqHR5CmLKjLxFvfvkh5gNTddVQ9iGUSKeN1LAGm5g2SdIVynbwu6EOt0KVw/Bu4Qt8c8nQvSH9p0FxMqY/75dhR/N/hNjZDKcYQlntRuht+yvHw7v8F2ZP1HSLsJYN7mVDQOYQPl/GKvhmvZ1r8e2JshPqvI77fHBEfnqyJfFulCeDQXM8mb8lyGiauPztc2K0jsThy/rqUeS6FA1rKgUu5+gmRjpBqaYbU3ZSZiJ/gZyC+zW523ArF4yUlHcXwyec5PQOhSoOLkmqGEFqcLpdMZ89zdW0oDWWXwouB/Bs=">
+    <PXFormView ID="form" ParentId="phF_form" TypeFullName="PX.Web.UI.PXFormView">
+        <Prop Key="Height" Value="70px" />
+        <Children Key="Template">
+            <AddItem>
+                <PXSelector TypeFullName="PX.Web.UI.PXSelector">
+                    <Prop Key="Virtual:ApplyStylesheetSkin" />
+                    <Prop Key="ID" Value="CstPXSelector4" />
+                    <Prop Key="DataField" Value="StartPeriodNbr" />
+                    <Prop Key="CommitChanges" Value="True" />
+                </PXSelector>
+            </AddItem>
+        </Children>
+    </PXFormView>
+    <PXLayoutRule ID="PXLayoutRule1" ParentId="phF_form_PXLayoutRule1" TypeFullName="PX.Web.UI.PXLayoutRule">
+        <Prop Key="LabelsWidth" Value="SM" />
+        <Prop Key="ControlSize" Value="SM" />
+    </PXLayoutRule>
+    <PXGridColumn DataField="CurrentFinYear" ParentId="phG_grid_Levels#0_Columns#0" TypeFullName="PX.Web.UI.PXGridColumn">
+        <Prop Key="Width" Value="120" />
+    </PXGridColumn>
+    <PXGridColumn DataField="CurrentFinPeriodID" ParentId="phG_grid_Levels#0_Columns#1" TypeFullName="PX.Web.UI.PXGridColumn">
+        <Prop Key="Width" Value="150" />
+    </PXGridColumn>
+    <PXGridColumn DataField="CurrentStartDate" ParentId="phG_grid_Levels#0_Columns#2" TypeFullName="PX.Web.UI.PXGridColumn">
+        <Prop Key="Width" Value="150" />
+    </PXGridColumn>
+    <PXGridColumn DataField="CurrentEndDate" ParentId="phG_grid_Levels#0_Columns#3" TypeFullName="PX.Web.UI.PXGridColumn">
+        <Prop Key="Width" Value="150" />
+    </PXGridColumn>
+    <PXGridColumn DataField="NewFinYear" ParentId="phG_grid_Levels#0_Columns#4" TypeFullName="PX.Web.UI.PXGridColumn">
+        <Prop Key="Width" Value="100" />
+    </PXGridColumn>
+    <PXGridColumn DataField="NewFinPeriodNbr" ParentId="phG_grid_Levels#0_Columns#5" TypeFullName="PX.Web.UI.PXGridColumn">
+        <Prop Key="Width" Value="150" />
+    </PXGridColumn>
+    <PXGridColumn DataField="NewStartDate" ParentId="phG_grid_Levels#0_Columns#6" TypeFullName="PX.Web.UI.PXGridColumn">
+        <Prop Key="Width" Value="120" />
+    </PXGridColumn>
+    <PXGridColumn DataField="NewEndDate" ParentId="phG_grid_Levels#0_Columns#7" TypeFullName="PX.Web.UI.PXGridColumn">
+        <Prop Key="Width" Value="120" />
+    </PXGridColumn>
+    <PXGridColumn DataField="IsAdjustment" ParentId="phG_grid_Levels#0_Columns#8" TypeFullName="PX.Web.UI.PXGridColumn">
+        <Prop Key="Width" Value="150" />
+    </PXGridColumn>
+    <PXDataSource ID="ds" ParentId="phDS_ds" TypeFullName="PX.Web.UI.PXDataSource">
+        <Prop Key="PrimaryView" Value="CalendarConversionMapDetails" />
+    </PXDataSource>
+    <PXSelector DataField="CurrentStartPeriodID" ParentId="phF_form_CstPXSelector3" TypeFullName="PX.Web.UI.PXSelector">
+        <Prop Key="DataField" Value="StartYearID" />
+    </PXSelector>
+</Page>

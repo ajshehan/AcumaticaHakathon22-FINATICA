@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CD.FINATICA", "CD.FINATICA\CD.FINATICA.csproj", "{8F7F2861-877F-431B-A37E-290EC0ED3F73}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "FinancialCalanderUpgrader", "http://localhost/FinancialCalanderUpgrader", "{AE036AC7-16F3-4874-AA65-B871155AC7CE}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "false"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		ProjectReferences = "{8f7f2861-877f-431b-a37e-290ec0ed3f73}|CD.FINATICA.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/FinancialCalanderUpgrader"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\Softwares\Acumatica\ErpProduct_22.200.0104.0212\FinancialCalanderUpgrader\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\FinancialCalanderUpgrader\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/FinancialCalanderUpgrader"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\Softwares\Acumatica\ErpProduct_22.200.0104.0212\FinancialCalanderUpgrader\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\FinancialCalanderUpgrader\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\..\..\Softwares\Acumatica\ErpProduct_22.200.0104.0212\FinancialCalanderUpgrader\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F7F2861-877F-431B-A37E-290EC0ED3F73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F7F2861-877F-431B-A37E-290EC0ED3F73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F7F2861-877F-431B-A37E-290EC0ED3F73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F7F2861-877F-431B-A37E-290EC0ED3F73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE036AC7-16F3-4874-AA65-B871155AC7CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE036AC7-16F3-4874-AA65-B871155AC7CE}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE036AC7-16F3-4874-AA65-B871155AC7CE}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {885476AD-0410-442E-9370-1EA46CD8C3F0}
+	EndGlobalSection
+EndGlobal
